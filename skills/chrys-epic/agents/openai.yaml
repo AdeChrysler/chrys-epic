@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chrys Epic"
+  short_description: "Turn business ideas into focused epic plans"
+  default_prompt: "Use $chrys-epic to turn my business goal into one epic with ordered child tasks, clear acceptance criteria, and a copyable execution goal."
